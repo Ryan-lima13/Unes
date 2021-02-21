@@ -1,0 +1,23 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/* cabeçalho*/
+#logo{
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+#menu ul{
+    list-style: none;
+    text-align: right;
+    
+}
+#menu ul li{
+    display: inline;
+    
+    position: relative;
+    right: 200px;
+    margin: 5px;
+}
