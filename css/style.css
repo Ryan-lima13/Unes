@@ -28,3 +28,14 @@ body{
 #menu ul li a:hover{
     text-decoration: underline;
 }
+/*conteudo principal*/
+#corpo{
+    width: 920px;
+    position: relative;
+    left: 200px;
+    padding: 20px;
+}
+#rodape{
+    text-align: center;
+    font-weight: bold;
+}
